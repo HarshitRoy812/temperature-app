@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/temperature-app/static/css/main.2f0829e5.css",
-    "main.js": "/temperature-app/static/js/main.8fb9c891.js",
+    "main.css": "/temperature-app/static/css/main.2a396f06.css",
+    "main.js": "/temperature-app/static/js/main.bc34400b.js",
     "static/js/787.5a5c7b88.chunk.js": "/temperature-app/static/js/787.5a5c7b88.chunk.js",
+    "static/media/hot.png": "/temperature-app/static/media/hot.364fb7a584bc72833ca7.png",
+    "static/media/cold.png": "/temperature-app/static/media/cold.50ad847a59e3dae89406.png",
     "index.html": "/temperature-app/index.html",
-    "main.2f0829e5.css.map": "/temperature-app/static/css/main.2f0829e5.css.map",
-    "main.8fb9c891.js.map": "/temperature-app/static/js/main.8fb9c891.js.map",
+    "main.2a396f06.css.map": "/temperature-app/static/css/main.2a396f06.css.map",
+    "main.bc34400b.js.map": "/temperature-app/static/js/main.bc34400b.js.map",
     "787.5a5c7b88.chunk.js.map": "/temperature-app/static/js/787.5a5c7b88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f0829e5.css",
-    "static/js/main.8fb9c891.js"
+    "static/css/main.2a396f06.css",
+    "static/js/main.bc34400b.js"
   ]
 }
