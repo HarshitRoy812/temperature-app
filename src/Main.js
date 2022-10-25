@@ -1,9 +1,19 @@
 import React from 'react';
+import Hot from './images/hot.png';
+import Cold from './images/cold.png';
 
 export default function Main(props)
 {
+
+    const changeBg = () => {
+
+        document.body.style.backgroundImage = `url(${props.details < 25 ? Cold : Hot}`;
+    }
+    
+    changeBg();
+
     const styleHeader = {
-        color : (props.details < 25) ? "#468faf" : "#ff7b00",
+        color : 'white',    
         fontFamily : "SF Pro Display Regular",
         fontSize : "50px",
         letterSpacing : "-1px",
