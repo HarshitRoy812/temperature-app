@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperature-app/static/css/main.2f0829e5.css",
+    "main.js": "/temperature-app/static/js/main.8fb9c891.js",
+    "static/js/787.5a5c7b88.chunk.js": "/temperature-app/static/js/787.5a5c7b88.chunk.js",
+    "index.html": "/temperature-app/index.html",
+    "main.2f0829e5.css.map": "/temperature-app/static/css/main.2f0829e5.css.map",
+    "main.8fb9c891.js.map": "/temperature-app/static/js/main.8fb9c891.js.map",
+    "787.5a5c7b88.chunk.js.map": "/temperature-app/static/js/787.5a5c7b88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f0829e5.css",
+    "static/js/main.8fb9c891.js"
+  ]
+}
