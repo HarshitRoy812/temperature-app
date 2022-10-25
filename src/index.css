@@ -1,0 +1,72 @@
+*
+{
+  margin : 0;
+  padding : 0;
+  box-sizing: border-box;
+}
+
+
+.header 
+{
+  display : flex;
+  flex-direction: column;
+  width : 25vw;
+  height : 30vh;
+  justify-content: space-around;
+  align-items: center;
+  margin : auto;
+}
+
+.header i 
+{
+  font-size : 6rem;
+  color : #61a5c2;
+}
+
+.header h1 
+{
+  color : #000000;
+  font-family : 'SF Pro Display Regular';
+  font-size : 35px;
+}
+
+.main 
+{
+  display : flex;
+  flex-direction: column;
+  height : 50vh;
+  width : 40vw; 
+  margin : auto;
+  margin-top : 50px;
+  padding : 10px;
+  justify-content: space-around;
+}
+
+.counter 
+{
+  display : flex;
+  width : 70%;
+  height : 30%;
+  align-self: center;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btn 
+{
+  width : 30%;
+  height : 55%;
+  outline : none;
+  background : #d9d9d9;
+  border : none;
+  font-size : 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition : 0.3s;
+}
+
+.btn:hover 
+{
+  background : #f4f3ee;
+}
